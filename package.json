@@ -1,0 +1,15 @@
+{
+  "name": "qm-multiagent-harness",
+  "version": "1.0.0",
+  "description": "Multiplayer AI agent harness",
+  "main": "src/harness.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/harness.js"
+  },
+  "author": "Varritech <christian@varritech.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0"
+  }
+}
